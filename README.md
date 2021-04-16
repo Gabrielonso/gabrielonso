@@ -1,4 +1,4 @@
-Gabrielonso is a web developer who loves to solve problems, create value and engage His mind creatively.
+Gabriel Nonso a.k.a Gabrielonso is a web developer who loves to solve problems, create value and engage His mind creatively.
 He's interested in developing websites and applications for indviduals, enterprise and organisations.
 He likes to solve probems related to management, and is currently working on automating business processes, for managers to manage their resources with ease and make better decisions.
 He has developed inventory management system applications to suit various business needs and requirements.
