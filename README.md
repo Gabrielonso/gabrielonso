@@ -1,6 +1,19 @@
-Gabriel Nonso a.k.a Gabrielonso is a web developer who loves to solve problems, create value and engage His mind creatively.
-He's interested in developing websites and applications for indviduals, enterprise and organisations.
-He likes to solve probems related to management, and is currently working on automating business processes, for managers to manage their resources with ease and make better decisions.
-He has developed inventory management system applications to suit various business needs and requirements.
-He uses HTML, CSS, Javascript, Jquery, Bootstrap, PHP and MYSQL. He usually adopts OOP technique, and interact with databases using PDO and stored procedures(when necessary).
-Gabrielonso is open to learning new technologies, more efficient ways of doing things, and also values team work.
+Onyeaka, Gabriel Nonso a.k.a Gabrielonso is an enthusiastic Web Developer, with great problem solving skills and an analytical mind.
+He works with various front-end and back-end web technologies such as: HTML, CSS, JavaScript, PHP, Bootstrap, JQuery, MySQL,
+Tailwind and React to :
+- design responsive web pages for various screen sizes,
+- create engaging web interfaces for great web user experience and
+- solve problems for individuals and enterprise by developing useful web contents and applications.
+- 
+He also
+- debugs and maintain codes,
+- uses git version cotrol,
+- is knowledgeable in OOP and
+- familiar with relational databases.
+ 
+He has used a combination of these technologies and techniques to write algorithms to do certain tasks to help managers
+manage and keep track of their business activities from anywhere at anytime.
+
+He's working hard to make the use of the web and technologies more satisfying and convinient for anyone in their day to day activities.
+
+He's opened to growth opportunities, value teamwork and like to keep communications open.
